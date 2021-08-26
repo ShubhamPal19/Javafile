@@ -40,11 +40,6 @@ class inherited_class extends base_class{
     
 }
 
-
-
-
-
-
 public class derivedconstructorin {
     
 
