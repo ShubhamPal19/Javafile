@@ -31,7 +31,7 @@ public class _1_ReverseArray {
             arr[j]=tmp;
             i++;
             j--;
-        }\
+        }
 
         for (int i = 0; i < n; i++) {
 
