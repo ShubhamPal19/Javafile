@@ -21,6 +21,17 @@ public class _1_ReverseArray {
            arr[i]= sc.nextInt();
         }
 
+        
+        int i=0,j=n-1;
+        while(i<j)
+        {
+
+            int tmp= arr[i];
+            arr[i]=arr[j];
+            arr[j]=tmp;
+            i++;
+            j--;
+        }\
 
         for (int i = 0; i < n; i++) {
 
