@@ -40,7 +40,9 @@ public class switches {
         switch(val){
 
 
-            case (2) -> System.out.println("the value is 2");
+            case (2) -> {System.out.println("the value is 2");
+                       System.out.println("helodfasdf");
+                      }
 
             case (3) ->  System.out.println("the value is 3");
 

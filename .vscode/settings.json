@@ -1,6 +1,8 @@
 {
     "java.project.sourcePaths": [
         "project_1/src",
-        "javaBasicExercises/src/com/company"
+        "javaBasicExercises/src/com/company",
+        "DSA_java/Arrays_java/src/com/company",
+        "DSA_java/Arrays"
     ]
 }
